@@ -10,7 +10,11 @@
 
 First, link your HTML page to the icon fonts and CSS files.
 
-Then, add the CSS class, from the Icons Reference above, to any HTML tag.
+Insert the icon class name into any HTML tag to add the icon. The default CSS class prefix is 'icon-' ~> class="icon-baidu":
+
+![Alt text](http://app.fontastic.me/static/images/download/5.png)
+
+Then, add the CSS class, from the Icons Reference above, to any HTML tag. 
 
 ## SVG Sprite Icon Cloud
 
