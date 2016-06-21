@@ -37,4 +37,4 @@ Let's assume that you already clicked the "Publish" button and copied the script
 
 You can use `height` and `width` properties to control icon size. To define icon color use `fill` property. Note: `currentColor` keyword inherits the color value of a parent element.
 
-* Adobe Illustrator icon set Author `zcool.com.cn` *
+*Adobe Illustrator icon set Author `zcool.com.cn`*
