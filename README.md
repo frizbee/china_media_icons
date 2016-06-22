@@ -41,5 +41,21 @@ Let's assume that you already clicked the "Publish" button and copied the script
 
 You can use `height` and `width` properties to control icon size. To define icon color use `fill` property. Note: `currentColor` keyword inherits the color value of a parent element.
 
+### Brand colors
+```
+TaoBao HEX:#ff4400 RGB(255, 68, 0)
+Weibo HEX:#E51C34 RGB(229, 28, 52)
+Tencent Weibo HEX:#3FA1D8 RGB(63, 161, 216)
+QQ HEX:#60A5E4 RGB(96, 165, 228)
+WeChat HEX:#7CB139 RGB(124, 177, 57)
+Baidu HEX:#2319dc RGB(35, 25, 220)
+Watercress ???
+Dou Ban HEX:#007722 RGB(0,119,34)
+Ren Ren HEX:#227DC5 RGB(34,125,197)
+Qzone HEX:#FFD302 RGB(255,211,2)
+Kai Xin Wang HEX:#EE4C56 RGB(238,76,86)
+MiTalk HEX:#3DCE56 RGB(61,206,86)
+```
+
 *Adobe Illustrator icon set Author `zcool.com.cn`*
 *Icons generated using `fontastic.me`*
