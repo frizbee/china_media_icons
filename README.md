@@ -49,12 +49,12 @@ Tencent Weibo HEX:#3FA1D8 RGB(63, 161, 216)
 QQ HEX:#60A5E4 RGB(96, 165, 228)
 WeChat HEX:#7CB139 RGB(124, 177, 57)
 Baidu HEX:#2319dc RGB(35, 25, 220)
-Watercress ???
+(Tencent) Friend Circle? ???
 Dou Ban HEX:#007722 RGB(0,119,34)
 Ren Ren HEX:#227DC5 RGB(34,125,197)
 Qzone HEX:#FFD302 RGB(255,211,2)
-Kai Xin Wang HEX:#EE4C56 RGB(238,76,86)
-MiTalk HEX:#3DCE56 RGB(61,206,86)
+Kaixin HEX:#EE4C56 RGB(238,76,86)
+(Xiaomi) Miliao HEX:#3DCE56 RGB(61,206,86)
 ```
 
 *Adobe Illustrator icon set Author `zcool.com.cn`*
