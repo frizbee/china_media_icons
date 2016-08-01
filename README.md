@@ -57,5 +57,8 @@ Kaixin HEX:#EE4C56 RGB(238,76,86)
 (Xiaomi) Miliao HEX:#3DCE56 RGB(61,206,86)
 ```
 
+## Credits
+This set was made by me, using ready made icon set of *`zcool.com.cn`* and genereted using *`fontastic.me`* for the needs of the company. The company adapts to the tourism market and at this moment the largest number of tour flow comes from China.
+
 *Adobe Illustrator icon set Author `zcool.com.cn`*
 *Icons generated using `fontastic.me`*
